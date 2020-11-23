@@ -1,0 +1,8 @@
+{
+  "data|10": [
+    {
+      "uName|5-8": "/[a-z][A-Z][0-9]/",
+      "image|3": "Random.image('200x100', '#50B347', '#FFF', 'Mock.js')"
+    }
+  ]
+}
